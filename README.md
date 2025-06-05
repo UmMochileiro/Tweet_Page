@@ -1,10 +1,10 @@
 
-![Divertido GIF](https://gifyu.com/image/bx4kA)
+![Divertido GIF]([https://gifyu.com/image/bx4kA](https://gifyu.com/image/bx4kA))
 
 
 
 # 🚀 Tweet Page
-
+https://gifyu.com/image/bx4kA
 Este projeto é uma aplicação simples feita com **React** e **Vite**.
 
 ## 📦 Instalação
