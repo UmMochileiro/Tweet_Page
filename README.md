@@ -1,5 +1,6 @@
 
-![Divertido GIF][[https://gifyu.com/image/bx4kA](https://s14.gifyu.com/images/bx4kA.gif)]
+![Divertido GIF](https://s14.gifyu.com/images/bx4kA.gif)
+
 
 
 
