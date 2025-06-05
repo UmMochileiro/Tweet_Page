@@ -1,3 +1,8 @@
+
+![Divertido GIF](https://media.giphy.com/media/YOUR_GIF_URL/giphy.gif)
+
+
+
 # 🚀 Tweet Page
 
 Este projeto é uma aplicação simples feita com **React** e **Vite**.
